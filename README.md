@@ -1,4 +1,4 @@
-### Hello, everybody I'm wanggaoxian 👋
+### Hello,  I'm wanggaoxian 👋
 
 **RabbitDaddy/RabbitDaddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,4 +12,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=RabbitDaddy)
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=RabbitDaddy)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/RabbitDaddy/count.svg" />
+</p>
+
